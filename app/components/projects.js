@@ -3,8 +3,8 @@ import Image from 'next/image'
 export default function Projects() {
   return (
     <div id="projects">
-      <p className="text-3xl pt-2 font-bold">Projects</p>
-      <div className="py-2">
+      <p className="text-3xl pt-4 pb-2 font-bold">Projects</p>
+      <div>
         <p className="text-xl font-semibold py-2">Destructor-Inator Ray</p>
         <Image src="/destructor-inator.jpg" alt="Destructor-Inator Ray" width={400} height={300} />
         <p>An inator that can destroy any object in the tri-state area.</p>
