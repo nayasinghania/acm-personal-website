@@ -10,7 +10,6 @@ export default function Page() {
       <Greeting />
       <About />
       <Projects />
-      <Footer />
     </div>
   )
 }
