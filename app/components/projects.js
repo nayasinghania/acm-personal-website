@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Projects() {
   return (
-    <div id="projects">
+    <div id="projects" className="scroll-mt-20">
       <h2 className="text-4xl pt-8 pb-4 font-bold">Projects</h2>
       <div className="grid grid-cols-2 gap-12">
         <div className="rounded-3xl bg-black p-8">
