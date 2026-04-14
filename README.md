@@ -1,9 +1,7 @@
 # ACM - CS Club @ SJSU Personal Website Workshop Example
 
 ## Branches
-main - personal website part 1
-
-main-2 - personal website part 2
+main - personal website
 
 ## Setup
 1. `npm install`
